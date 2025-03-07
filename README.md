@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on improving my skills in Python, JavaScript, Vue.js, Node.js and SQL<br>👯 I’m looking to collaborate on full-stack projects and beginner AI/ML projects<br>🤝 I’m looking for help with Python and using APIs<br>🌱 I’m currently learning about APIs, machine learning, and AI.<br>⚡ Fun fact: JavaScript is my favorite language!<br>📫 How to reach me: omarelsegeiny@gmail.com<br>
 
 
