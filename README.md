@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Elsegeiny</h1>
 <h3 align="center">Passionate Fullstack Developer</h3>
 
-- 📫 How to reach me **omarelsegeiny@gmail.com**
+- 📫 How to reach me:
+-  **omarelsegeiny@gmail.com**
 - **https://www.linkedin.com/in/omar-elsegeiny/**
 
 
