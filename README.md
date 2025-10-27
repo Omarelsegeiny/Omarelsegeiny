@@ -4,8 +4,8 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <ul>
- <li>**omarelsegeiny@gmail.com**</li>
- <li>**https://www.linkedin.com/in/omar-elsegeiny/**</li>
+ <li>omarelsegeiny@gmail.com</li>
+ <li>https://www.linkedin.com/in/omar-elsegeiny/</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
